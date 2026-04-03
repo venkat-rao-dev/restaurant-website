@@ -22,6 +22,9 @@ A responsive restaurant website designed to showcase menu items, provide reserva
 2. Navigate through pages
 3. Test menu and reservation features
 
+## 🔗 Live Demo
+[Restaurant Website](https://restaurant-db686.web.app/)
+
 ## 👨‍💻 Author
 
 Venkata Rao Kancheti
